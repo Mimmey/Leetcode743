@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e60e770c-bd3f-49a3-8631-c1e7cdbe05f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="2CkTnoYwwaZJwBoBW7piz2yvrgG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects/JavaIFMO" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.SolutionTest">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode743" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.check4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode743" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="check4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.check4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60e770c-bd3f-49a3-8631-c1e7cdbe05f6" name="Default Changelist" comment="" />
+      <created>1659345753098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659345753098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="159" y="92" width="1115" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1659358622990">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="159" y="92" width="1115" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.0.1299.768@67.0.1299.768" timestamp="1659358622990" />
+    <state x="521" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1659353435896">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="521" y="93" key="#com.intellij.ide.util.MemberChooser/67.0.1299.768@67.0.1299.768" timestamp="1659353435896" />
+    <state width="1255" height="239" key="GridCell.Tab.0.bottom" timestamp="1659428303785">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.0.bottom/67.0.1299.768@67.0.1299.768" timestamp="1659428303785" />
+    <state width="1255" height="239" key="GridCell.Tab.0.center" timestamp="1659428303784">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.0.center/67.0.1299.768@67.0.1299.768" timestamp="1659428303784" />
+    <state width="1255" height="239" key="GridCell.Tab.0.left" timestamp="1659428303784">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.0.left/67.0.1299.768@67.0.1299.768" timestamp="1659428303784" />
+    <state width="1255" height="239" key="GridCell.Tab.0.right" timestamp="1659428303784">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.0.right/67.0.1299.768@67.0.1299.768" timestamp="1659428303784" />
+    <state width="1255" height="239" key="GridCell.Tab.1.bottom" timestamp="1659428303785">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.1.bottom/67.0.1299.768@67.0.1299.768" timestamp="1659428303785" />
+    <state width="1255" height="239" key="GridCell.Tab.1.center" timestamp="1659428303785">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.1.center/67.0.1299.768@67.0.1299.768" timestamp="1659428303785" />
+    <state width="1255" height="239" key="GridCell.Tab.1.left" timestamp="1659428303785">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.1.left/67.0.1299.768@67.0.1299.768" timestamp="1659428303785" />
+    <state width="1255" height="239" key="GridCell.Tab.1.right" timestamp="1659428303785">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.1.right/67.0.1299.768@67.0.1299.768" timestamp="1659428303785" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algos.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
